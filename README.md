@@ -13,6 +13,8 @@ The file structure is the following:
 - index.html
 - mapanimation.js
 - styles.css
+- blue.png
+- red.png
 
 ### Roadmap
 - add time and date
