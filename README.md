@@ -7,15 +7,16 @@ This exercise was all about adding animation to a map. MBTA bus data is being us
 
 ### How to Run
 
-You can download or fork this repository. To view you can open the index.html file in a browser of your choice. 
-
-If you want to use the code you can edit it in a code editor of your choice. 
+You can download or fork this repository. To see the bus marker moving in real time open the index.html file in a browser of your choice. 
+If you want to use the code you can edit it in a code editor. 
 The file structure is the following: 
 - index.html
 - mapanimation.js
 - styles.css
 
 ### Roadmap
+- add time and date
+- add the bus schedule
 
 ### License information
 
